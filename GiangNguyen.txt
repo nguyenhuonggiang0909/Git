@@ -1,2 +1,6 @@
 Nguyen Huong Giang
+<<<<<<< HEAD
 ð?a ch?: 325-Thái Th?nh-Ð?ng Ða-Hà N?i
+tÃ¬m hiá»ƒu vÃª git vÃ  github
+Thá»±c hÃ nh cÃ¢u lá»‡nh push vÃ  pull
+
