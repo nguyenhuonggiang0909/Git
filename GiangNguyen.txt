@@ -1,2 +1,3 @@
 Nguyen Huong Giang
 tìm hiểu vê git và github
+Thực hành câu lệnh push và pull
